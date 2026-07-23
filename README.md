@@ -13,7 +13,8 @@ The equations are used during the development of my PhD thesis on power system s
 ## Structure
 
 - `src/`: reusable symbolic functions
-- `*_hvector.py`: symbolic derivations for each device
+- `*_hvector.py`: symbolic derivations for h(x) equations for each device
+- `*_jacobian.py`: symbolic derivations for the Jacobian matrix equations for each device
 
 ## Requirements
 
